@@ -11,7 +11,7 @@ const socials = [
   },
   {
     icon: FaLinkedin,
-    link: "linkedin.com/in/khushbu-mukati-004657284",
+    link: "https://www.linkedin.com/in/khushbu-mukati-004657284/",
   },
   {
     icon: FaEnvelope,
