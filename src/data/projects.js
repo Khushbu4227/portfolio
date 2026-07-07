@@ -1,10 +1,9 @@
 const projects = [
   {
     id: 1,
-
     title: "Employee Management System",
 
-    image: "/projects/employee.png",
+    image: "/portfolio/projects/employee.png",
 
     description:
       "A Full Stack Employee Management System built using Java, Spring Boot, React and MySQL. It provides secure authentication, role-based authorization, employee management, CRUD operations, REST APIs and a modern responsive dashboard.",
@@ -24,10 +23,9 @@ const projects = [
 
   {
     id: 2,
-
     title: "Digital Grievance System",
 
-    image: "/projects/grevence.png",
+    image: "/portfolio/projects/grevence.png",
 
     description:
       "A secure grievance management platform developed using React, Python Flask and MySQL. Users can register complaints, track complaint status, receive updates and administrators can efficiently manage and resolve grievances.",
