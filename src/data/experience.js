@@ -10,7 +10,7 @@ const experience = [
   {
     title: "Software Intern",
     company: "MP Online Limited",
-    duration: "2025",
+    duration: "December 2025 - May 2026",
     description:
       "Worked on real-world software development tasks, web applications and technical support while improving practical development skills.",
   },
