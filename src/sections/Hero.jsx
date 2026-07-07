@@ -65,14 +65,17 @@ function Hero() {
           {/* Buttons */}
 
           <div className="flex flex-wrap gap-5 mt-10">
-            <Button primary href="#projects">
-              View Projects
-            </Button>
+  <Button primary href="#projects">
+    View Projects
+  </Button>
 
-            <Button href="/resume.pdf" target="_blank">
-              Download Resume
-            </Button>
-          </div>
+  <Button
+    href="/portfolio/resume.pdf"
+    target="_blank"
+  >
+    Download Resume
+  </Button>
+</div>
 
           {/* Social Icons */}
 
